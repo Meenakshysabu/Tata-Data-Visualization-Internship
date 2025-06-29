@@ -1,5 +1,4 @@
-# 📊 Tata Group - Data Visualisation  
-### 🔍 *Empowering Business with Effective Insights* — Job Simulation
+# 📊 Tata Group - Data Visualisation:Empowering Business with Effective Insights Job Simulation
 
 This repository contains my work from the **Tata Data Visualization Virtual Experience Program** hosted on **Forage**. The program simulated a real-world data analytics scenario, focusing on deriving business insights from retail data using tools like Excel, Power BI, and Tableau.
 
@@ -48,4 +47,4 @@ This experience was made possible through the **Forage** platform in collaborati
 ## 📬 Contact
 
 Feel free to connect with me on [LinkedIn]-www.linkedin.com/in/meenakshy-sabu-741226321
-📧 Email: meenakshysabu04@gmail.com
+
