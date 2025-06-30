@@ -46,5 +46,5 @@ This experience was made possible through the **Forage** platform in collaborati
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn]-www.linkedin.com/in/meenakshy-sabu-741226321
+Feel free to connect with me on [LinkedIn]-(www.linkedin.com/in/meenakshy-sabu-741226321)
 
